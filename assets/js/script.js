@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$$(document).ready(function () {
 
     $('#menu').click(function () {
         $(this).toggleClass('fa-times');
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["web designing", "web development", "java development" ],
+    strings: ["web designing", "web development"," java development" ],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
