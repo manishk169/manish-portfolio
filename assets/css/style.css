@@ -685,9 +685,10 @@ header .navbar ul li a:hover {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  height: 5rem;
+  height: 4.5rem;
   width: 100%;
   padding-left: 1rem;
+  padding-top : 1 rem;
   background: #ffd900;
 }
 .work .box-container .box .content .tag h3 {
