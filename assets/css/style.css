@@ -685,7 +685,7 @@ header .navbar ul li a:hover {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  height: 4.5rem;
+  height: 5rem;
   width: 100%;
   padding-left: 1rem;
   background: #ffd900;
