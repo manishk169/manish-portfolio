@@ -369,9 +369,9 @@ header .navbar ul li a:hover {
   transition: 0.3s;
   cursor: pointer;
 }
-.about .row .image img:hover {
+/* .about .row .image img:hover {
   mix-blend-mode: normal;
-}
+} */
 .about .row .content {
   flex: 1 1 45rem;
   padding: 3rem;
