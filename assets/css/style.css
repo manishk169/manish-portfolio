@@ -760,13 +760,18 @@ header .navbar ul li a:hover {
 /* work section ends */
 
 /* experience section starts */
+.experience {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
 
 
 .experience .timeline {
   position: relative;
   max-width: 1200px;
-  margin: 0 auto;
+  
   margin-bottom: 0;
+  padding-bottom: 0;
   overflow: hidden;
 }
 .experience .timeline::after {
