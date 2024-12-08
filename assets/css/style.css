@@ -766,6 +766,7 @@ header .navbar ul li a:hover {
   max-width: 1200px;
   margin: 0 auto;
   margin-bottom: 0;
+  overflow: hidden;
 }
 .experience .timeline::after {
   content: "";
