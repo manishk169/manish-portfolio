@@ -460,7 +460,7 @@ header .navbar ul li a:hover {
 
 /* skills section starts */
 .skills {
-  min-height: 90vh;
+  min-height: 70vh;
   background: linear-gradient(to bottom, #57059e, #4a00e0);
 }
 .skills h2 {
