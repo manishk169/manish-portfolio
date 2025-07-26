@@ -1232,3 +1232,14 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
+
+
+/* avatar style */
+.avatar-img {
+  width: 250px;
+  height: 450px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--text-color);
+}
